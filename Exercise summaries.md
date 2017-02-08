@@ -23,3 +23,8 @@ Today I learned about comments. I also hacked into a windows 7 PC. I also learne
 ## LPTHW : Exercise 3
 ### Summary
 Today I learned math signs in python. I also wrote code. And I also made my code run. 
+
+# 2017-02-08
+## LPTHW : Exercise 4
+### Summary
+Today I learned about commenting.I learned how to comment.I also learned what to comment

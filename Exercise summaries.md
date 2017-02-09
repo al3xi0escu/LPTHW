@@ -28,3 +28,8 @@ Today I learned math signs in python. I also wrote code. And I also made my code
 ## LPTHW : Exercise 4
 ### Summary
 Today I learned about commenting.I learned how to comment.I also learned what to comment
+
+# 2017-02-09
+## LPTHW : Exercise 5
+### Summary
+Today I learned about Format String. I did some typing practice. I also did Khan Academy.

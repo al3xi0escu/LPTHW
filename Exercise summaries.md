@@ -33,3 +33,8 @@ Today I learned about commenting.I learned how to comment.I also learned what to
 ## LPTHW : Exercise 5
 ### Summary
 Today I learned about Format String. I did some typing practice. I also did Khan Academy.
+
+# 2017-02-10
+## LPTHW : Exercise 
+### Summary
+Today I did exercise 6. I also did stretch projects. I also did khan academy

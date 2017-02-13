@@ -38,3 +38,8 @@ Today I learned about Format String. I did some typing practice. I also did Khan
 ## LPTHW : Exercise 6
 ### Summary
 Today I did exercise 6. I also did stretch projects. I also did khan academy
+
+# 2017-02-13
+## LPTHW : Exercise 7
+### Summary
+Today I exercised in python. I did khan academy. I also learned how to use variables

@@ -43,3 +43,8 @@ Today I did exercise 6. I also did stretch projects. I also did khan academy
 ## LPTHW : Exercise 7
 ### Summary
 Today I exercised in python. I did khan academy. I also learned how to use variables
+
+# 2017-02-14
+## LPTHW : Exercise 8
+### Summary
+Today I praticed in python. I did khan academy. I learned about variables.

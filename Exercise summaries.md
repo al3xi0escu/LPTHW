@@ -48,3 +48,8 @@ Today I exercised in python. I did khan academy. I also learned how to use varia
 ## LPTHW : Exercise 8
 ### Summary
 Today I praticed in python. I did khan academy. I learned about variables.
+
+# 2017-02-20
+## LPTHW : Exercise 9
+### Summary
+Today I did khan academy. I learned about text. I did LPTHW.

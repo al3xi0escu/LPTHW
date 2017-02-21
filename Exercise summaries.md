@@ -53,3 +53,8 @@ Today I praticed in python. I did khan academy. I learned about variables.
 ## LPTHW : Exercise 9
 ### Summary
 Today I did khan academy. I learned about text. I did LPTHW.
+
+# 2017-02-21
+## LPTHW : Exercise 10 
+### Summary
+Today I learned about escaping double-school. I did khan academy. I did LPTHW.

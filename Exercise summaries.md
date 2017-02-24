@@ -63,3 +63,8 @@ Today I learned about escaping double-school. I did khan academy. I did LPTHW.
 ## LPTHW : Exercise 11
 ### Summary
 Today I learned how to use raw input. I did ex 11 for LPTHW. I did khan academy.
+
+# 2017-02-24
+## LPTHW : Exercise 12
+### Summary
+I learned about raw input. I did ex 12. I did khan academy.

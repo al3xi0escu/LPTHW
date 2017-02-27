@@ -68,3 +68,8 @@ Today I learned how to use raw input. I did ex 11 for LPTHW. I did khan academy.
 ## LPTHW : Exercise 12
 ### Summary
 I learned about raw input. I did ex 12. I did khan academy.
+
+# 2017-02-27
+## LPTHW : Exercise 13
+### Summary
+I did exercise 13 for LPTHW. I learnt about parameters. I did khan academy

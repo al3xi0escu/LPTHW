@@ -72,4 +72,9 @@ I learned about raw input. I did ex 12. I did khan academy.
 # 2017-02-27
 ## LPTHW : Exercise 13
 ### Summary
-I did exercise 13 for LPTHW. I learnt about parameters. I did khan academy
+I did exercise 13 for LPTHW. I learnt about parameters. I did khan academy.
+
+# 2017-02-28
+## LPTHW : Exercise 14
+### Summary
+I did exercise 14 for LPTHW. I learnt about raw input. I did khan academy.

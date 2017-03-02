@@ -78,3 +78,8 @@ I did exercise 13 for LPTHW. I learnt about parameters. I did khan academy.
 ## LPTHW : Exercise 14
 ### Summary
 I did exercise 14 for LPTHW. I learnt about raw input. I did khan academy.
+
+# 2017-03-02
+## LPTHW : Exercise 15
+### Summary
+I did exercise 15 for LPTHW. I learnt about .txt files. I did khan academy.

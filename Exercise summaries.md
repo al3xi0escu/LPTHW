@@ -87,4 +87,9 @@ I did exercise 15 for LPTHW. I learnt about .txt files. I did khan academy.
 # 2017-03-06
 ## LPTHW : Exercise 16
 ### Summary
-I did exercise 16 for LPTHW. I wrote and read files. I ram the program.
+I did exercise 16 for LPTHW. I wrote and read files. I ran the program.
+
+# 2017-03-07
+## LPTHW : Exercise 17
+### Summary
+I did exercise 17 for LPTHW. I wrote and read files. I ran the program.

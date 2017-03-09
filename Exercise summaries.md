@@ -98,3 +98,8 @@ I did exercise 17 for LPTHW. I wrote and read files. I ran the program.
 ## LPTHW : Exercise 18
 ### Summary
 I did exercise 18 for LPTHW. I did khan academy. I ran the program.
+
+# 2017-03-09
+## LPTHW : Exercise 19
+### Summary
+I did exercise 19 for LPTHW. I did khan academy. I ran the program.
